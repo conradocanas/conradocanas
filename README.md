@@ -1,6 +1,7 @@
-### Hola 👋
+## Hola 👋
 
-## Bienvenid@ a mi perfil
+### Bienvenid@ a mi perfil
+
 
 <!--
 **conradocanas/conradocanas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
