@@ -1,4 +1,4 @@
-## Hola 👋, vbenvenid@ a mi perfil
+## Hola 👋, benvenid@ a mi perfil.
 
 Mi nombre es Conrado Cañas, actualmente estoy trabajando Freelance con clientes de todo el mundo ayudando a montar sus sitios en WordPress. Tengo mas de 50 sitios y tiendas montadas al momento. Mi meta actual es conseguir mi primer trabajo como desarrollador de software Front-end o Full Stack.
 
