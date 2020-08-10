@@ -18,7 +18,6 @@ Mi meta actual es conseguir mi primer trabajo como desarrollador de software Ful
 - Node.js
 - Express.js
 - Mongoose
-- MongoDB
 
 #### - Python
 
