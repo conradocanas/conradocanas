@@ -13,13 +13,14 @@ Mi meta actual es conseguir mi primer trabajo como desarrollador de software Ful
 - Photoshop
 
 ### Lenguajes y tecnologías que estoy aprendiendo en este momento:
-#### - Python
 #### - JavaScript
 - Vue.js
 - Node.js
 - Express.js
 - Mongoose
 - MongoDB
+
+#### - Python
 
 [![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_5.svg)](https://cafecito.app/mameluc)
 
