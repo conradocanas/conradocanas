@@ -6,15 +6,15 @@ Mi nombre es Conrado Cañas, actualmente estoy trabajando Freelance con clientes
 
 Mi meta actual es conseguir mi primer trabajo como desarrollador de software Full Stack
 
-#### Lenguajes, tecnologías y programas que utilizo regularmente:
+### Lenguajes, tecnologías y programas que utilizo regularmente:
 - HTML
 - CSS
 - Bootstrap
 - Photoshop
 
-#### Lenguajes y tecnologías que estoy aprendiendo en este momento:
-##### - Python
-##### - JavaScript
+### Lenguajes y tecnologías que estoy aprendiendo en este momento:
+#### - Python
+#### - JavaScript
 - Vue.js
 - Node.js
 - Express.js
