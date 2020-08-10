@@ -12,7 +12,6 @@ Mi nombre es Conrado Cañas, actualmente estoy trabajando Freelance con clientes
 #### - JavaScript
 - Vue.js
 - Node.js
-- Express.js
 - Mongoose
 #### - Python
 
