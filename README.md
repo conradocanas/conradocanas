@@ -11,8 +11,8 @@ Mi nombre es Conrado Cañas, actualmente estoy trabajando Freelance con clientes
 ### Lenguajes y tecnologías que estoy aprendiendo en este momento:
 #### - JavaScript
 - Vue.js
+- Angular.js
 - Node.js
-- Mongoose
 #### - Python
 
 
