@@ -1,10 +1,6 @@
-## Hola 👋
+## Hola 👋, vbenvenid@ a mi perfil
 
-### Bienvenid@ a mi perfil
-
-Mi nombre es Conrado Cañas, actualmente estoy trabajando Freelance con clientes de todo el mundo ayudando a montar sus sitios en WordPress. Tengo mas de 50 sitios y tiendas montadas al momento.
-
-Mi meta actual es conseguir mi primer trabajo como desarrollador de software Full Stack
+Mi nombre es Conrado Cañas, actualmente estoy trabajando Freelance con clientes de todo el mundo ayudando a montar sus sitios en WordPress. Tengo mas de 50 sitios y tiendas montadas al momento. Mi meta actual es conseguir mi primer trabajo como desarrollador de software Front-end o Full Stack.
 
 ### Lenguajes, tecnologías y programas que utilizo regularmente:
 - HTML
@@ -18,8 +14,8 @@ Mi meta actual es conseguir mi primer trabajo como desarrollador de software Ful
 - Node.js
 - Express.js
 - Mongoose
-
 #### - Python
+
 
 [![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_5.svg)](https://cafecito.app/mameluc)
 
