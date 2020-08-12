@@ -17,13 +17,12 @@
 
 ### Languages and technologies I'm learning:
 
-
+<img align="left" alt="Python" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" />
 <img align="left" alt="Vuejs" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original.svg" />
 <img align="left" alt="Angularjs" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" />
 <img align="left" alt="Nodejs" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="MongoDB" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="Express" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg" />
-<img align="left" alt="Python" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" />
+
 
 <br><br>
 
