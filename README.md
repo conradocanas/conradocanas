@@ -1,26 +1,27 @@
 ## Hola 👋
 
-### Languages and technologies I use for work:
+### Languages and technologies:
 
-<img align="left" alt="Git" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" />
-<img align="left" alt="Git" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" />
-<img align="left" alt="Git" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" />
+<img align="left" alt="CSS" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" />
+<img align="left" alt="HTML" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" />
+<img align="left" alt="Bootstrap" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" />
 <img align="left" alt="Visual Studio Code" width="40px" src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg" />
-<img align="left" alt="GitHub" width="40px" src="https://devicons.github.io/devicon/devicon.git/icons/wordpress/wordpress-plain.svg" />
-<img align="left" alt="Git" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" />
-<img align="left" alt="GitHub" width="40px" src="https://devicons.github.io/devicon/devicon.git/icons/slack/slack-original.svg" />
+<img align="left" alt="Github" width="40px" src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" />
+<img align="left" alt="WordPress" width="40px" src="https://devicons.github.io/devicon/devicon.git/icons/wordpress/wordpress-plain.svg" />
+<img align="left" alt="Slack" width="40px" src="https://devicons.github.io/devicon/devicon.git/icons/slack/slack-original.svg" />
+<img align="left" alt="Photoshop" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" />
 
 
 <br><br>
 
 ### Languages and technologies I'm learning:
 
-<img align="left" alt="Git" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Git" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" />
-<img align="left" alt="Git" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original.svg" />
-<img align="left" alt="Git" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" />
-<img align="left" alt="Git" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Git" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="JavaScript" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="Python" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" />
+<img align="left" alt="Vuejs" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original.svg" />
+<img align="left" alt="Angularjs" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" />
+<img align="left" alt="Nodejs" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="MongoDB" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg" />
 
 <br><br>
 
