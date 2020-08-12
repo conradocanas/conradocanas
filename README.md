@@ -1,6 +1,6 @@
 ## Hola 👋
 
-### Languages and technologies:
+### Languages, technologies and programs I use regularly:
 
 <img align="left" alt="CSS" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" />
 <img align="left" alt="HTML" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" />
@@ -32,11 +32,6 @@
 * <img align="left" alt="FCC" width="26px" src="https://img.icons8.com/windows/32/000000/free-code-camp.png"/> JavaScript Algorithms and Data Structures
 
 * <img align="left" alt="Udemy" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/udemy-1-logo-png-transparent.png"/> Master en JavaScript: JS, jQuery, Angular & NodeJS
-
-<br>
-
-[![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_5.svg)](markhttps://cafecito.app/mameluc)
-
 <!--
 **conradocanas/conradocanas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
