@@ -1,8 +1,6 @@
-## Hola 👋, bienvenid@ a mi perfil.
+## Hola 👋
 
-Mi nombre es Conrado Cañas, actualmente estoy trabajando Freelance con clientes de todo el mundo ayudando a montar sus sitios en WordPress. Tengo mas de 50 sitios y tiendas montadas al momento. Mi meta actual es conseguir mi primer trabajo como desarrollador de software Front-end o Full Stack.
-
-### Lenguajes, tecnologías y programas que utilizo regularmente:
+### Languages and technologies I use for work:
 
 <img align="left" alt="Git" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" />
 <img align="left" alt="Git" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" />
@@ -15,7 +13,7 @@ Mi nombre es Conrado Cañas, actualmente estoy trabajando Freelance con clientes
 
 <br><br>
 
-### Lenguajes y tecnologías que estoy aprendiendo en este momento:
+### Languages and technologies I'm learning:
 
 <img align="left" alt="Git" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Git" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" />
