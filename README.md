@@ -2,8 +2,9 @@
 
 ### Languages, technologies and programs I use regularly:
 
-<img align="left" alt="CSS" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" />
+<img align="left" alt="JavaScript" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="HTML" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" />
 <img align="left" alt="Bootstrap" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" />
 <img align="left" alt="Visual Studio Code" width="40px" src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg" />
 <img align="left" alt="Github" width="40px" src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" />
@@ -16,12 +17,13 @@
 
 ### Languages and technologies I'm learning:
 
-<img align="left" alt="JavaScript" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Python" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" />
+
 <img align="left" alt="Vuejs" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original.svg" />
 <img align="left" alt="Angularjs" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" />
 <img align="left" alt="Nodejs" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="MongoDB" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="Express" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg" />
+<img align="left" alt="Python" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" />
 
 <br><br>
 
