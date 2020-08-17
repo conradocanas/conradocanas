@@ -1,5 +1,8 @@
 ## Hola 👋
 
+### Curriculum Vitae:
+https://conradocanas.github.io/curriculum-vitae/
+
 ### Languages, technologies and programs I use regularly:
 
 <img align="left" alt="JavaScript" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-plain.svg" />
