@@ -20,11 +20,12 @@ https://conradocanas.github.io/curriculum-vitae/
 
 ### Languages and technologies I'm learning:
 
-<img align="left" alt="Python" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" />
+<img align="left" alt="React" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" />
+<img align="left" alt="Redux" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" />
 <img align="left" alt="Vuejs" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original.svg" />
-<img align="left" alt="Angularjs" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" />
 <img align="left" alt="Nodejs" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="MongoDB" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="Sass" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" />
 
 
 <br><br>
