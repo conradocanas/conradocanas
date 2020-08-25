@@ -26,6 +26,7 @@ https://conradocanas.github.io/curriculum-vitae/
 <img align="left" alt="Nodejs" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="MongoDB" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="Sass" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" />
+<img align="left" alt="Docker" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original.svg" />
 
 
 <br><br>
