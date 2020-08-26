@@ -11,14 +11,13 @@ https://conradocanas.github.io/curriculum-vitae/
 <img align="left" alt="Bootstrap" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" />
 <img align="left" alt="Visual Studio Code" width="40px" src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg" />
 <img align="left" alt="Github" width="40px" src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" />
-<img align="left" alt="WordPress" width="40px" src="https://devicons.github.io/devicon/devicon.git/icons/wordpress/wordpress-plain.svg" />
 <img align="left" alt="Slack" width="40px" src="https://devicons.github.io/devicon/devicon.git/icons/slack/slack-original.svg" />
 <img align="left" alt="Photoshop" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" />
 
 
 <br><br>
 
-### Languages and technologies I'm learning:
+### Frameworks and technologies I'm learning:
 
 <img align="left" alt="React" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" />
 <img align="left" alt="Redux" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" />
