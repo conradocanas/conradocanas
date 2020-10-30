@@ -5,6 +5,7 @@ https://cv.conradocanas.com.ar
 
 ### Languages, technologies and programs I use regularly:
 
+<img align="left" alt="Vuejs" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original.svg" />
 <img align="left" alt="JavaScript" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="HTML" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" />
@@ -21,7 +22,6 @@ https://cv.conradocanas.com.ar
 
 <img align="left" alt="React" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" />
 <img align="left" alt="Redux" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" />
-<img align="left" alt="Vuejs" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original.svg" />
 <img align="left" alt="Nodejs" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="MongoDB" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="Sass" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" />
