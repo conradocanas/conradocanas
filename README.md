@@ -1,7 +1,7 @@
 ## Hola 👋
 
 ### Curriculum Vitae:
-https://cv.conradocanas.com.ar
+https://cv.conrado.ar
 
 ### Languages, technologies and programs I use regularly:
 
