@@ -5,27 +5,27 @@ https://cv.conradocanas.com.ar
 
 ### Languages, technologies and programs I use regularly:
 
-<img align="left" alt="Vuejs" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original.svg" />
-<img align="left" alt="JavaScript" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="HTML" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" />
-<img align="left" alt="Bootstrap" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" />
-<img align="left" alt="Visual Studio Code" width="40px" src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg" />
-<img align="left" alt="Github" width="40px" src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" />
-<img align="left" alt="Slack" width="40px" src="https://devicons.github.io/devicon/devicon.git/icons/slack/slack-original.svg" />
-<img align="left" alt="Photoshop" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" />
+<img align="left" alt="Vuejs" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" />
+<img align="left" alt="JavaScript" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="HTML" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+<img align="left" alt="Bootstrap" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" />
+<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" />
+<img align="left" alt="Github" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
+<img align="left" alt="Slack" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" />
+<img align="left" alt="Photoshop" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" />
 
 
 <br><br>
 
 ### Frameworks and technologies I'm learning:
 
-<img align="left" alt="React" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" />
-<img align="left" alt="Redux" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" />
-<img align="left" alt="Nodejs" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="MongoDB" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="Sass" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" />
-<img align="left" alt="Docker" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original.svg" />
+<img align="left" alt="React" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+<img align="left" alt="Redux" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
+<img align="left" alt="Nodejs" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="MongoDB" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="Sass" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
+<img align="left" alt="Docker" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
 
 
 <br><br>
