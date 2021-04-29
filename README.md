@@ -3,7 +3,7 @@
 ### Curriculum Vitae:
 https://cv.conrado.ar
 
-### Languages, technologies and programs I use regularly:
+### Languages, technologies and programs I use for work:
 
 <img align="left" alt="Vuejs" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" />
 <img align="left" alt="JavaScript" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
