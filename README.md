@@ -37,6 +37,9 @@ https://cv.conrado.ar
 * <img align="left" alt="FCC" width="26px" src="https://img.icons8.com/windows/32/000000/free-code-camp.png"/> JavaScript Algorithms and Data Structures
 
 * <img align="left" alt="Udemy" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/udemy-1-logo-png-transparent.png"/> Master en JavaScript: JS, jQuery, Angular & NodeJS
+
+### Others
+<img src="https://www.codewars.com/users/conradocanas/badges/small">
 <!--
 **conradocanas/conradocanas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
