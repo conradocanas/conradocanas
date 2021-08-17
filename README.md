@@ -11,6 +11,7 @@ https://cv.conrado.ar
 <img align="left" alt="CSS" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 <img align="left" alt="Bootstrap" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" />
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" />
+<img align="left" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Github" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
 <img align="left" alt="Slack" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" />
 <img align="left" alt="Photoshop" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" />
