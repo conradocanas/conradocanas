@@ -17,7 +17,7 @@ https://cv.conrado.ar
 
 <br><br>
 
-### Frameworks and technologies I'm learning:
+### Frameworks and technologies I'm familiar with:
 
 <img align="left" alt="Angular" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" />
 <img align="left" alt="Sass" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
