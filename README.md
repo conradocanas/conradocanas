@@ -34,6 +34,15 @@ https://cv.conrado.ar
 
 * <img align="left" alt="Udemy" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/udemy-1-logo-png-transparent.png"/> Master en JavaScript: JS, jQuery, Angular & NodeJS
 
+### GitHub Analytics
+
+<p>
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=conradocanas&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=conradocanas&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 ### Others
 <img src="https://www.codewars.com/users/conradocanas/badges/small">
 <!--
